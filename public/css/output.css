@@ -1010,7 +1010,7 @@ select{
 
 .bg-roverBlue{
   --tw-bg-opacity:1;
-  background-color:rgb(36 148 162 / var(--tw-bg-opacity));
+  background-color:rgb(50 50 50 / var(--tw-bg-opacity));
 }
 
 .bg-roverNeutral\/90{

@@ -6,7 +6,7 @@ module.exports = {
         roverNeutral: "#F7F4E5",
         roverGold: "#DBB13B",
         roverNavy: "#2D325A",
-        roverBlue: "#2494A2",
+        roverBlue: "#333333",
         roverAqua: "#56BDA2"
       },
       fontFamily: {
